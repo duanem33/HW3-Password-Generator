@@ -1,2 +1,2 @@
-# HW3-Password-Generator
+# Password-Generator
 ## My First .js project
